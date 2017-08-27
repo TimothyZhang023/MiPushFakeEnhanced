@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=MiPushFake
+name=XiaoMi Push Framework Fake Advanced 
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=cubesky
+description=A Module to insert miui prop to system. 
 template=4
