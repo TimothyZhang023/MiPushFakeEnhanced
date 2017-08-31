@@ -1,7 +1,7 @@
 id=MiPushFake
 name=XiaoMi Push Framework Fake Advanced 
-version=v2
-versionCode=2
+version=v2.1
+versionCode=3
 author=CubeSky
 description=A Module to insert miui prop to system. 
 template=4

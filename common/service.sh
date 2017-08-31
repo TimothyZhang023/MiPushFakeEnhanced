@@ -5,3 +5,7 @@ MODDIR=${0%/*}
 
 # This script will be executed in late_start service mode
 # More info in the main Magisk thread
+
+resetprop -n ro.miui.ui.version.name AREUOK
+resetprop -n ro.miui.ui.version.code 233333
+resetprop -n ro.miui.internal.storage AREUOK

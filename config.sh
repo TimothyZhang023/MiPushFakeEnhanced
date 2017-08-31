@@ -19,7 +19,7 @@ PROPFILE=true
 POSTFSDATA=false
 
 # Set to true if you need late_start service script
-LATESTARTSERVICE=false
+LATESTARTSERVICE=true
 
 ##########################################################################################
 # Installation Message
