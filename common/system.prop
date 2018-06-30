@@ -8,3 +8,6 @@ ro.miui.internal.storage=/sdcard/
 ro.product.manufacturer=Xiaomi
 ro.product.brand=Xiaomi
 ro.product.name=Xiaomi
+ro.product.model=MIX2s
+ro.product.device=MIX2s
+ro.hardware=MIX2s
